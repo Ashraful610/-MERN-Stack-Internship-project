@@ -1,0 +1,29 @@
+.banner{
+    width:100%;
+    height: 440px;
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url('https://i.ibb.co/GCfpyG9/pexels-photo-48727-min.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.banner-text{
+    position: absolute;
+    top: 280px;
+    left: 200px;
+}
+.banner-text h2{
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    color: white;
+}
+.banner-text h3{
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
