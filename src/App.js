@@ -1,10 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './Component/Shared/Navbar/Navbar';
 
 function App() {
   return (
-    <div className="App">
-       <h2 className='bg-primary text-white'>Welcome to our page</h2>
-       
+    <div>
+       <Navbar></Navbar>
     </div>
   );
 }

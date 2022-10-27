@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.logo{    
+    width: 162px;
+    height: 24px;
+}
+.input-div{    
+    width: 360px;
+    height: 42px;
+    background: #F2F2F2;
+    border-radius: 21px;
+    display: flex ;
+    align-items: center;
+}
+.search-field{
+    width: 242px;
+    height: 19px;
+    border: 0;
+    outline: none;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    background-color: transparent;
+}
+.search-icons{
+    width: 16.03px;
+    height: 16.03px;
+    color: #7A7A7A;
+    font-weight: 700;
+    margin: 0 10px;
+}
+.create-account-div{
+    width: 183px;
+    height: 21px;
+}
+.create-account-div h2{
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}
+.create-account-div h2 span {
+    color: #2F6CE5;
+}
